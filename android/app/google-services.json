@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526504220953",
+    "project_id": "my-tech-shopping-app",
+    "storage_bucket": "my-tech-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526504220953:android:189fdf9bd548a4b4dd8d88",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526504220953-9hqs8h2nio18ehvjtpj7tbqdduk7pn16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bO_ESPguZZMJCOD4eaympQvqt46dEmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526504220953-9hqs8h2nio18ehvjtpj7tbqdduk7pn16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
